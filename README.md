@@ -1,2 +1,2 @@
-# yellow
-small script
+# This is my readme file
+Hello cloud guru
